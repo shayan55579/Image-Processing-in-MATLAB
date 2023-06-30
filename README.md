@@ -1,5 +1,7 @@
 # Image-Processing-in-MATLAB
 ![image 1](matlab.png)
+
+
 In MATLAB, image processing can be performed using various built-in functions and libraries. This allows you to manipulate and analyze images to extract useful information or enhance their visual quality. Let's explore some basic image processing tasks using MATLAB.
 
 ## Reading and Displaying an Image
